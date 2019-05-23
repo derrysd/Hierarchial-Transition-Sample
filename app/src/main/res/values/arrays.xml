@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contents">
+        <item>Item number 1</item>
+        <item>Item number 2</item>
+        <item>Item number 3</item>
+        <item>Item number 4</item>
+        <item>Item number 5</item>
+        <item>Item number 6</item>
+        <item>Item number 7</item>
+        <item>Item number 8</item>
+        <item>Item number 9</item>
+        <item>Item number 10</item>
+    </string-array>
+</resources>
